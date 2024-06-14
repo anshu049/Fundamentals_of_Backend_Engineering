@@ -13,7 +13,7 @@ async def main():
     file_content = await read_file_async("test.txt")
 
     # Print the second log message
-    print("2")
+    print("2\n")
 
     # Print the file contents with a newline after
     print(f"file: {file_content}\n")
