@@ -9,5 +9,5 @@ with open("test.txt", "r") as file:
 print(f"file: {res}\n")
 
 # Print the second log message
-print("2")
+print("2\n")
 
