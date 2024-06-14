@@ -1,5 +1,3 @@
-import os
-
 # Print the first log message
 print("1\n")
 
