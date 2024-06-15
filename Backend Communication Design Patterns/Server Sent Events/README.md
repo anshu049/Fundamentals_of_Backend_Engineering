@@ -9,5 +9,5 @@ The demo involves a Flask web application that allows users to submit jobs and r
 
 
 ## Client-Side (HTML and JavaScript):
--Provides a user interface to start a job.
--Listens for real-time updates from the server and displays the job status.
+- Provides a user interface to start a job.
+- Listens for real-time updates from the server and displays the job status.
